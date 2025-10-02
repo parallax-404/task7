@@ -21,5 +21,3 @@ I took on this task to clean up my browser extensions and learn more about keepi
 ## Notes
 - I found and got rid of “AdBoost,” which looked shady to me.
 - Did this all with Chrome’s built-in features—no paid stuff.
-- Don’t forget to snap that screenshot and add it before submitting!
-- Deadline’s 10:00 PM IST today, October 02, 2025.
